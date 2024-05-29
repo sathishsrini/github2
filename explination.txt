@@ -1,3 +1,6 @@
 use ->git add .
 To add, more than one file or some modification in many files.
 now we are going to use this command(git add .) to add multiple file(index.html, explination.txt, style.css).
+
+we can use git branch -m main
+To change the branch name, we can use the above command.
